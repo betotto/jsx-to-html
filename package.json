@@ -1,0 +1,9 @@
+{
+  "name": "jsx-to-html",
+  "version": "0.0.1",
+  "description": "Writes plain HTML from JSX Stateless components",
+  "main": "index.js",
+  "keywords": ["jsx", "html"],
+  "author": "betotto",
+  "license": "MIT"
+}
